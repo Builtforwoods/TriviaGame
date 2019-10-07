@@ -1,0 +1,53 @@
+#startingMod {
+  background-color: rgb(255, 92, 80);
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+}
+#firstQuestMod {
+  background-color: rgb(255, 92, 80);
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  display: none;
+}
+#secondQuestMod {
+  background-color: rgb(255, 92, 80);
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  display: none;
+}
+#thirdQuestMod {
+  background-color: rgb(255, 92, 80);
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  display: none;
+}
+#fourthQuestMod {
+  background-color: rgb(255, 92, 80);
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  display: none;
+}
+#benefits,
+#wrong1,
+#life,
+#wrong2,
+#desires,
+#wrong3,
+#eagles,
+#wrong4 {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(184, 184, 255);
+  text-align: center;
+  left: 50%;
+}
